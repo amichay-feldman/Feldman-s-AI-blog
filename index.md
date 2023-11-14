@@ -1,4 +1,4 @@
 ---
-title: **DIY AI Adventures, Reviews, and Cool Demos**
+title: DIY AI Adventures, Reviews, and Cool Demos
 ---
 
